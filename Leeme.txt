@@ -1,1 +1,9 @@
+# levantar servidor
 php -S localhost:9002
+
+# archivo backup base de datos
+morangesoft.sql
+
+
+#cambiar los accesos ala base de datos en
+class/classconexion.php linea 8

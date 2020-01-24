@@ -1,6 +1,5 @@
 <?php
-    define('STATIC_DIR', '/var/www/avicolamamalidia.com/sistema/');
-    define('URL_ACTUAL', 'http://localhost/appventures-sistemas/avicola-mamalidia/');
+
 class Db{
 
     private $dbHost     = "localhost";
